@@ -5,3 +5,6 @@ Data access, preprocessing, sample preparation and visualization scripts are inc
 
 
 this repository also uses core implementations from [Rußwurm et al (2020)]( https://github.com/dl4sits/breizhcrops).
+
+
+Sentinel-2 and PlanetScope monthly composit data can be downloaded freely using dataaccess and visualization notebook. High resolution TerraSAR-X and SkySAT can be accessed upon request given we don't have licence to share.
